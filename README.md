@@ -49,18 +49,6 @@ The project is structured into multiple tasks within a Jupyter notebook:
 7. **Optimization Insights**
    - Recommend increasing frequency control
    - Focus spending on campaigns with high reach and low cost per result
-
-
-## 📈 Sample Visualizations
-
-- Spend vs. Results per Campaign
-- Top Reasons for Inactivity
-- Impact of Frequency on Impressions and ROI
-
-<p align="center">
-  <img src="images/spend_vs_results.png" width="500" />
-  <img src="images/top_inactive_reasons.png" width="500" />
-</p>
 ---
 
 ## 💡 Key Takeaways
