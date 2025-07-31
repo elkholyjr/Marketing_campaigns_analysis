@@ -5,7 +5,7 @@ We explore why some campaigns are inactive or not delivering, determine performa
 
 ---
 
-## 🚀 Project Goals
+## Project Goals
 
 Marketing teams often face challenges optimizing digital campaigns due to data noise and unclear performance indicators.  
 This analysis provides:
@@ -16,11 +16,11 @@ This analysis provides:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 The project is structured into multiple tasks within a Jupyter notebook:
 
-### ✅ Tasks Breakdown
+### Tasks Breakdown
 
 1. **Problem Framing and Overview**
    - Understand the business challenge: improving ROI from digital campaigns.
@@ -51,7 +51,7 @@ The project is structured into multiple tasks within a Jupyter notebook:
    - Focus spending on campaigns with high reach and low cost per result
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 - Campaigns with **bad frequency** are a major reason for inactivity or waste.
 - **High reach + low cost per result** = good investment.
@@ -59,7 +59,7 @@ The project is structured into multiple tasks within a Jupyter notebook:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python** (pandas, matplotlib, seaborn)
 - **Jupyter Notebook**
